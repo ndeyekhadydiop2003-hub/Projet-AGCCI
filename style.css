@@ -1,0 +1,47 @@
+ h1{
+    color: brown;
+ }
+
+ .div1{
+border: 6px solid pink;
+padding:10px ;
+width: 200 px;
+text-align: center;
+
+ }
+
+
+ .div2 {
+
+   background-color: palevioletred;
+   width: auto;
+
+   border: 6px solid pink;
+
+ }
+
+ .div3  {
+     
+     display: flex;
+     width: 500px;
+     height: 300px;
+    
+     
+ }
+
+
+
+ .tab{
+
+  border: 20px ;
+ }
+
+ .tof1{
+
+  margin-top: 30px;
+  height: 150px;
+  padding: 20px;
+
+ 
+     
+ }
